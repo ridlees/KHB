@@ -1,8 +1,8 @@
 ---
 name: Article suggestion
 about: Suggest your Article for DX Knowledgebase
-title: "Article"
-labels: 'Bug,Meme'
+title: Article
+labels: ''
 assignees: ''
 
 ---
