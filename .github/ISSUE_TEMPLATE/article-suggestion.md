@@ -1,9 +1,10 @@
 ---
-name: Practice suggestion
-about: Suggest a new article about good Practice 
-title: 'new_practice'
-labels: "article_type: practice", suggestion
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug, duplicate
 assignees: ''
+
 ---
 # Title: [Article] %Practice name
 
