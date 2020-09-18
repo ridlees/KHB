@@ -1,20 +1,26 @@
 ---
-name: Article suggestion
-about: Suggest your Article for DX Knowledgebase
-title: Article
-labels: ''
+name: Practice suggestion
+about: Suggest a new article about good Practice 
+title: 'new_practice'
+labels: 'article_type: practice', suggestion,
 assignees: ''
 
 ---
+# Title: [Article] %Practice name
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-[Meme](README.md)
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+What is this about: “What is this practice about”? Which existing (or new) problems does this practice solve? 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+Read more here: The starting point for your research (You can use different sources if it is more fitting)
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Pick corresponding label: 
+- Stage:research
+- Stage:building_team
+- Stage:development
+- Stage:launch
+- Stage:maintenance
+- Stage:phase_out
+
+## How to contribute:
+- Follow our [Contribution guide]()
+- How to [Git and Pull Requests]( https://github.com/firstcontributions/first-contributions/blob/master/README.md)
+- How to [Markdown](https://guides.github.com/features/mastering-markdown/), [Markdown interactive demo](https://www.markdowntutorial.com/lesson/1/) or [Google Docs Addon](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607)
