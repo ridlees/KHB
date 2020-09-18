@@ -2,7 +2,7 @@
 name: Practice suggestion
 about: Suggest a new article about good Practice 
 title: 'new_practice'
-labels: 'article_type: practice', suggestion,
+labels: article_type: practice, suggestion,
 assignees: ''
 
 ---
