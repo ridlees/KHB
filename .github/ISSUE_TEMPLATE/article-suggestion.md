@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: "Article: Test", enhancement
+labels: "Article: Test, enhancement"
 assignees: ''
 
 ---
