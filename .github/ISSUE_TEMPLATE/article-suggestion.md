@@ -2,7 +2,7 @@
 name: Article suggestion
 about: Suggest your Article for DX Knowledgebase
 title: "Article"
-labels: 'Bug'
+labels: Bug,Meme
 assignees: ''
 
 ---
